@@ -3,12 +3,14 @@
 
 A classic match-3 puzzle game developed using C++ and EasyX graphics library, featuring rich graphical interface and complete game functionality.
 
+## 中文版本
+[click here](./lanlankan1/README.md)
 ## Project Overview
 
 This is a fully functional match-3 puzzle game that supports multiple game modes, leaderboard system, sound effects, and beautiful graphical interface. The game uses EasyX graphics library for interface rendering, providing a smooth gaming experience.
 
 ## Project Detailed Design Documentation
- View here [Design Documentation](./程序设计课程实践课程大作业_连连看实验报告.doc)
+ View here [Design Documentation](./lanlankan1/程序设计课程实践课程大作业_连连看实验报告.doc)
 
 ## Features
 
