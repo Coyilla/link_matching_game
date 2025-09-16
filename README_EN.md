@@ -125,7 +125,7 @@ struct Index {
 2. Game requires EasyX graphics library support
 3. Leaderboard files are automatically created and updated
 
-## Author
+## Music Author
 
 Hou Junjie - Yijue Gaoxia (Easy Version)
 
